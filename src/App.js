@@ -53,6 +53,16 @@ function App() {
                     </ul>
                 </li>
             </div>
+            <div>
+              <h3>Today in Cassis</h3>
+              <p>27</p>
+              <h3>Sunny . light breeze</h3>
+            </div>
+            <div>
+              <p>Est. 1987</p>
+              <p>MAISON SOLEIL - 12 RUE DES OLIVEIERS - CASSIS</p>
+              <h3>C 2026 MAISON SOLEIL</h3>
+            </div>
         </nav>
 
         <Routes>
